@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0249_000.yaml, hash: 'sha256:ee28e4706ca029d928c02ddfe1dc9f320ba16138d5ee7d32ec07e89a8cb711d9'}
-  - {seq: 1, filename: KR6i0249_001.yaml, hash: 'sha256:eb332ea7fa0f61e09e3d050f3abb46e51e58218c6ff1d4af2c2cba99c074befa'}
+  - {seq: 1, filename: KR6i0249_001.yaml, hash: 'sha256:e19c1c41b8a89adeb36818c4434f3ee7965700da51cf6a209fd04dddb7af26df'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0249_001.markers.yaml, hash: 'sha256:4e4ae2e9ee1fd19be55a7bc6ef2efa9b914f7f1d3071af8c40030bb3589c3280'}
+  - {seq: 0, role: markers, filename: assets/KR6i0249_000.markers.yaml, hash: 'sha256:f1d70e790ac76b3f183bd9f40f270c3ddf631c76cbddd2e42b3b8878ac2d4cd1'}
+  - {seq: 1, role: markers, filename: assets/KR6i0249_001.markers.yaml, hash: 'sha256:09e1e6e62ed641993b72f31178c64fedff2a713d93e04271eecf3ed3c5ce6342'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 身觀經
   type: juan
   level: 1
-hash: sha256:e57258f9a519e6b9ff11a9d84d53649cabeb4a0a8a1720af3ff0cfecd4949538
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b354d1fe7c50c0a1b8058e776f5046f9584916ca72523a16a236909504e4bf52
